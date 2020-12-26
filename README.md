@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;这是一种无接触式的门锁，自然就要用到现在成熟的无线技术了。在这种小型门锁中，蓝牙技术再好不过了。再利用`RFID-RC522`模块，也能实现NFC通信。
 &nbsp; &nbsp; &nbsp; &nbsp;疫情期间，大家对自己的健康也有极大的要求。家庭门锁也要实时监控自己的体温以及客人的体温。如果你的体温超过37.3摄氏度，那智能门锁也会利用LED灯以及蜂鸣器来警告你，同时也会紧闭门锁，做好疫情防控第一步。
 ##### &nbsp; &nbsp; &nbsp; &nbsp;直观的设计思路以及功能原理图如图1所示：
-![Photo2.png](https://i.loli.net/2020/12/26/lLQRjYvrTaX5scP.png)
+![](./Photo2.png)
 <center>图1 设计思路及功能原理图</center>
 
 ## 团队成员
@@ -75,7 +75,7 @@
 | 220Ω电阻 |  另一端 |      LED       |
 ---
 ##### 仿真接线图如下
-![Photo1.png](https://i.loli.net/2020/12/26/RmHtMsvIghjYrEA.png)
+![](./Photo1.png)
 <center>图2 仿真接线图</center>
 
 ## 制作过程
@@ -84,7 +84,7 @@
     - 使用切割机切割木板，得到前门和侧门
     - 在前门中间安装电磁锁
 
-![photo1.jpg](https://i.loli.net/2020/12/26/81632vkKeScX5LE.jpg)
+![](./photo1.jpg)
 
 1. 门板正面外观和组装设计：
     - 使用电钻钻出三个LED发光二极管
@@ -92,39 +92,39 @@
     - 在门板上沿安装LCD液晶显示屏
     - 在门板右上角画门禁图案
 
-![photo2.jpg](https://i.loli.net/2020/12/26/ELeHgjxkDPRncJu.jpg)
+![](./photo2.jpg)
 
 3. 门板背面外观和组装设计
     - 安装电池盒和继电器开关
     - 安装Arduino电路板
     - 安装门禁卡
 
-![photo3.jpg](https://i.loli.net/2020/12/26/9XqRSGtliJacDEg.jpg)
+![](./photo3.jpg)
 
 4. 组装木板以及组接各个模块
     - 将木板前门和侧边墙壁组装
     - 接线并通电
 
-![photo4.jpg](https://i.loli.net/2020/12/26/4Iy7v1FVUTwrHSm.jpg)
+![](./photo4.jpg)
 
 5. 测试各个模块功能以及两种开锁方式
     - IC门禁卡开锁
     - 手机蓝牙开锁
 
-![photo5.jpg](https://i.loli.net/2020/12/26/tHlhOrKJCNq8byV.jpg)
-![photo6.jpg](https://i.loli.net/2020/12/26/NGyA7uY2bginlrB.jpg)
+![](./photo5.jpg)
+![](./photo6.jpg)
 
 ## 成品外观
-![picture1.jpg](https://i.loli.net/2020/12/26/Ioe9upisQfmKHTd.jpg)
+![](./picture1.jpg)
 <center>图3 成品外观正面</center>
 
-![picture2.jpg](https://i.loli.net/2020/12/26/GFkfaw9EvzuQeTM.jpg)
+![](./picture2.jpg)
 <center>图4 成品外观侧面</center>
 
-![picture3.jpg](https://i.loli.net/2020/12/26/M7VwvnBcfRZtkqb.jpg)
+![](./picture3.jpg)
 <center>图5 成品外观背面</center>
 
-![picture4.jpg](https://i.loli.net/2020/12/26/Wxn3TJlrkZdpwQH.jpg)
+![](./picture4.jpg)
 <center>图6 成品外观俯视图</center>
 
 ## 使用说明
